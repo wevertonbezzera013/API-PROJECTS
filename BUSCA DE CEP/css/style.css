@@ -1,0 +1,28 @@
+*{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+nav{
+    background: green;
+    padding: 50px;
+    
+}
+
+h1{
+
+    color: rgb(255, 255, 255);
+}
+
+#barra {
+    background-color: #fafa0f;
+    height: 5px;
+}
+
+footer{
+    background: green;
+    padding: 50px;
+}
+
+.tituloCep{
+    color: rgb(2, 104, 2);
+}
